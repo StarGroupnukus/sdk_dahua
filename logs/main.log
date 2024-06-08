@@ -1,0 +1,15 @@
+2024-06-08 17:37:20,244 - INFO - start main
+2024-06-08 17:37:20,716 - INFO - Login successful
+2024-06-08 17:37:20,747 - INFO - Listening to events
+2024-06-08 17:38:32,984 - INFO - face_recognition
+2024-06-08 17:38:32,989 - INFO - Global picture saved: Global_Recogn/Global_Img1.jpg
+2024-06-08 17:38:32,990 - INFO - Face picture saved: Face_Recogn/Face_Img1.jpg
+2024-06-08 17:38:32,990 - INFO - Face info: Time: 2024-6-8 15:38:16, Sex: (Male), Age: 26
+2024-06-08 17:38:32,990 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img1.jpg
+2024-06-08 17:38:32,990 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 67
+2024-06-08 17:39:40,377 - INFO - face_recognition
+2024-06-08 17:39:40,387 - INFO - Global picture saved: Global_Recogn/Global_Img2.jpg
+2024-06-08 17:39:40,397 - INFO - Face picture saved: Face_Recogn/Face_Img2.jpg
+2024-06-08 17:39:40,402 - INFO - Face info: Time: 2024-6-8 15:37:45, Sex: (Male), Age: 34
+2024-06-08 17:39:40,402 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img2.jpg
+2024-06-08 17:39:40,402 - INFO - Candidate info: Name: 4514, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 57
