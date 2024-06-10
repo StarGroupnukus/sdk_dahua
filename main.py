@@ -1,11 +1,16 @@
 # coding=utf-8
 
 import datetime
-from test import send_report, setup_logger
+
 from NetSDK.NetSDK import NetClient
 from NetSDK.SDK_Callback import fDisConnect, fHaveReConnect
 from NetSDK.SDK_Enum import *
 from NetSDK.SDK_Struct import *
+from dotenv import load_dotenv
+
+from test import send_report, setup_logger
+
+load_dotenv()
 
 callback_face_recognition_num = 0
 detect_object_id = 0
@@ -119,6 +124,7 @@ class CallBackAlarmInfo:
         else:
             self.candidate_similarity_str = '(Stranger)'
 
+
 @CB_FUNCTYPE(None, C_LLONG, C_DWORD, c_void_p, POINTER(c_ubyte), C_DWORD, C_LDWORD, c_int, c_void_p)
 def AnalyzerDataCallBack(lAnalyzerHandle, dwAlarmType, pAlarmInfo, pBuffer, dwBufSize, dwUser, nSequence, reserved):
     global callback_face_recognition_num
@@ -138,14 +144,17 @@ def AnalyzerDataCallBack(lAnalyzerHandle, dwAlarmType, pAlarmInfo, pBuffer, dwBu
                 if alarm_info.bGlobalScenePic:
                     if alarm_info.stuGlobalScenePicInfo.dwFileLenth > 0:
                         is_global = True
-                        Global_buf = pBuffer[alarm_info.stuGlobalScenePicInfo.dwOffSet: alarm_info.stuGlobalScenePicInfo.dwOffSet + alarm_info.stuGlobalScenePicInfo.dwFileLenth]
+                        Global_buf = pBuffer[
+                                     alarm_info.stuGlobalScenePicInfo.dwOffSet: alarm_info.stuGlobalScenePicInfo.dwOffSet + alarm_info.stuGlobalScenePicInfo.dwFileLenth]
                         if not os.path.isdir(os.path.join(local_path, 'Global_Recogn')):
                             os.mkdir(os.path.join(local_path, 'Global_Recogn'))
-                        with open('./Global_Recogn/Global_Img' + str(callback_face_recognition_num) + '.jpg', 'wb+') as global_pic:
+                        with open('./Global_Recogn/Global_Img' + str(callback_face_recognition_num) + '.jpg',
+                                  'wb+') as global_pic:
                             global_pic.write(bytes(Global_buf))
         if alarm_info.stuObject.stPicInfo.dwFileLenth > 0:
             is_face = True
-            Face_buf = pBuffer[alarm_info.stuObject.stPicInfo.dwOffSet:alarm_info.stuObject.stPicInfo.dwOffSet + alarm_info.stuObject.stPicInfo.dwFileLenth]
+            Face_buf = pBuffer[
+                       alarm_info.stuObject.stPicInfo.dwOffSet:alarm_info.stuObject.stPicInfo.dwOffSet + alarm_info.stuObject.stPicInfo.dwFileLenth]
             if not os.path.isdir(os.path.join(local_path, 'Face_Recogn')):
                 os.mkdir(os.path.join(local_path, 'Face_Recogn'))
             with open('./Face_Recogn/Face_Img' + str(callback_face_recognition_num) + '.jpg', 'wb+') as face_pic:
@@ -157,14 +166,18 @@ def AnalyzerDataCallBack(lAnalyzerHandle, dwAlarmType, pAlarmInfo, pBuffer, dwBu
                     maxSimilarityPersonInfo = alarm_info.stuCandidates[index]
             if maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwFileLenth > 0:
                 is_candidate = True
-                Candidate_buf = pBuffer[maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwOffSet:maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwOffSet + maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwFileLenth]
+                Candidate_buf = pBuffer[maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwOffSet:
+                                        maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwOffSet +
+                                        maxSimilarityPersonInfo.stPersonInfo.szFacePicInfo[0].dwFileLenth]
                 if not os.path.isdir(os.path.join(local_path, 'Candidate_Recogn')):
                     os.mkdir(os.path.join(local_path, 'Candidate_Recogn'))
-                with open('./Candidate_Recogn/Candidate_Img' + str(callback_face_recognition_num) + '.jpg', 'wb+') as candidate_pic:
+                with open('./Candidate_Recogn/Candidate_Img' + str(callback_face_recognition_num) + '.jpg',
+                          'wb+') as candidate_pic:
                     candidate_pic.write(bytes(Candidate_buf))
 
         show_info.get_recognition_info(alarm_info, is_face, is_candidate)
         process_event(dwAlarmType, show_info, callback_face_recognition_num, is_global, is_face, is_candidate)
+
 
 def process_event(dwAlarmType, show_info, num, is_global, is_face, is_candidate):
     logger.info('face_recognition')
@@ -173,11 +186,13 @@ def process_event(dwAlarmType, show_info, num, is_global, is_face, is_candidate)
 
     if is_face:
         logger.info(f"Face picture saved: Face_Recogn/Face_Img{num}.jpg")
-        logger.info(f"Face info: Time: {show_info.face_time_str}, Sex: {show_info.face_sex_str}, Age: {show_info.face_age_str}")
+        logger.info(
+            f"Face info: Time: {show_info.face_time_str}, Sex: {show_info.face_sex_str}, Age: {show_info.face_age_str}")
 
     if is_candidate:
         logger.info(f"Candidate picture saved: Candidate_Recogn/Candidate_Img{num}.jpg")
-        logger.info(f"Candidate info: Name: {show_info.candidate_name_str}, Sex: {show_info.candidate_sex_str}, Birth: {show_info.candidate_birth_str}, ID: {show_info.candidate_id_str}, Similarity: {show_info.candidate_similarity_str}")
+        logger.info(
+            f"Candidate info: Name: {show_info.candidate_name_str}, Sex: {show_info.candidate_sex_str}, Birth: {show_info.candidate_birth_str}, ID: {show_info.candidate_id_str}, Similarity: {show_info.candidate_similarity_str}")
         file_paths = [f'./Face_Recogn/Face_Img{num}.jpg']
         person_id = show_info.candidate_name_str
         score = show_info.candidate_similarity_str
@@ -185,7 +200,6 @@ def process_event(dwAlarmType, show_info, num, is_global, is_face, is_candidate)
         send_report(person_id, file_paths, datetime.datetime.now(), score, status)
     else:
         logger.warning("Candidate info: Stranger")
-
 
 
 def main():
@@ -196,10 +210,10 @@ def main():
     sdk.InitEx(m_DisConnectCallBack)
     sdk.SetAutoReconnect(m_ReConnectCallBack)
 
-    ip = '192.168.0.123'
-    port = 37777
-    username = 'admin'
-    password = 'admin123'
+    ip = os.getenv('IP_ADRESS')
+    port = os.getenv('PORT')
+    username = os.getenv('LOGIN')
+    password = os.getenv('PASSWORD')
     stuInParam = NET_IN_LOGIN_WITH_HIGHLEVEL_SECURITY()
     stuInParam.dwSize = sizeof(NET_IN_LOGIN_WITH_HIGHLEVEL_SECURITY)
     stuInParam.szIP = ip.encode()
@@ -232,6 +246,7 @@ def main():
         logger.error(f"Failed to login: {error_msg}")
     sdk.Cleanup()
 
+
 if __name__ == '__main__':
     while True:
         try:
@@ -239,4 +254,3 @@ if __name__ == '__main__':
             main()
         except Exception as e:
             logger.error(e)
-

@@ -13,3 +13,573 @@
 2024-06-08 17:39:40,402 - INFO - Face info: Time: 2024-6-8 15:37:45, Sex: (Male), Age: 34
 2024-06-08 17:39:40,402 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img2.jpg
 2024-06-08 17:39:40,402 - INFO - Candidate info: Name: 4514, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 57
+2024-06-08 17:42:22,910 - INFO - face_recognition
+2024-06-08 17:42:22,915 - INFO - Global picture saved: Global_Recogn/Global_Img3.jpg
+2024-06-08 17:42:22,915 - INFO - Face picture saved: Face_Recogn/Face_Img3.jpg
+2024-06-08 17:42:22,916 - INFO - Face info: Time: 2024-6-8 15:42:8, Sex: (Male), Age: 25
+2024-06-08 17:42:22,916 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img3.jpg
+2024-06-08 17:42:22,916 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 96
+2024-06-08 17:44:09,336 - INFO - face_recognition
+2024-06-08 17:44:09,341 - INFO - Global picture saved: Global_Recogn/Global_Img4.jpg
+2024-06-08 17:44:09,341 - INFO - Face picture saved: Face_Recogn/Face_Img4.jpg
+2024-06-08 17:44:09,341 - INFO - Face info: Time: 2024-6-8 15:43:52, Sex: (Male), Age: 27
+2024-06-08 17:44:09,341 - WARNING - Candidate info: Stranger
+2024-06-08 17:44:29,008 - INFO - face_recognition
+2024-06-08 17:44:29,013 - INFO - Global picture saved: Global_Recogn/Global_Img5.jpg
+2024-06-08 17:44:29,019 - INFO - Face picture saved: Face_Recogn/Face_Img5.jpg
+2024-06-08 17:44:29,024 - INFO - Face info: Time: 2024-6-8 15:44:14, Sex: (Male), Age: 40
+2024-06-08 17:44:29,029 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img5.jpg
+2024-06-08 17:44:29,034 - INFO - Candidate info: Name: 4893, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 17:46:30,691 - INFO - face_recognition
+2024-06-08 17:46:30,702 - INFO - Global picture saved: Global_Recogn/Global_Img6.jpg
+2024-06-08 17:46:30,712 - INFO - Face picture saved: Face_Recogn/Face_Img6.jpg
+2024-06-08 17:46:30,722 - INFO - Face info: Time: 2024-6-8 15:46:10, Sex: (Male), Age: 27
+2024-06-08 17:46:30,733 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img6.jpg
+2024-06-08 17:46:30,738 - INFO - Candidate info: Name: 4837, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 63
+2024-06-08 17:50:30,063 - INFO - face_recognition
+2024-06-08 17:50:30,073 - INFO - Global picture saved: Global_Recogn/Global_Img7.jpg
+2024-06-08 17:50:30,083 - INFO - Face picture saved: Face_Recogn/Face_Img7.jpg
+2024-06-08 17:50:30,094 - INFO - Face info: Time: 2024-6-8 15:50:13, Sex: (Male), Age: 28
+2024-06-08 17:50:30,104 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img7.jpg
+2024-06-08 17:50:30,114 - INFO - Candidate info: Name: 4471, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 17:50:52,417 - INFO - face_recognition
+2024-06-08 17:50:52,417 - INFO - Global picture saved: Global_Recogn/Global_Img8.jpg
+2024-06-08 17:50:52,417 - INFO - Face picture saved: Face_Recogn/Face_Img8.jpg
+2024-06-08 17:50:52,422 - INFO - Face info: Time: 2024-6-8 15:50:34, Sex: (Female), Age: 27
+2024-06-08 17:50:52,422 - WARNING - Candidate info: Stranger
+2024-06-08 17:51:05,749 - INFO - face_recognition
+2024-06-08 17:51:05,759 - INFO - Global picture saved: Global_Recogn/Global_Img9.jpg
+2024-06-08 17:51:05,764 - INFO - Face picture saved: Face_Recogn/Face_Img9.jpg
+2024-06-08 17:51:05,769 - INFO - Face info: Time: 2024-6-8 15:50:50, Sex: (Female), Age: 27
+2024-06-08 17:51:05,774 - WARNING - Candidate info: Stranger
+2024-06-08 17:51:14,370 - INFO - face_recognition
+2024-06-08 17:51:14,380 - INFO - Global picture saved: Global_Recogn/Global_Img10.jpg
+2024-06-08 17:51:14,390 - INFO - Face picture saved: Face_Recogn/Face_Img10.jpg
+2024-06-08 17:51:14,401 - INFO - Face info: Time: 2024-6-8 15:50:59, Sex: (Female), Age: 40
+2024-06-08 17:51:14,411 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img10.jpg
+2024-06-08 17:51:14,421 - INFO - Candidate info: Name: 4836, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 57
+2024-06-08 17:51:14,994 - INFO - face_recognition
+2024-06-08 17:51:14,999 - INFO - Global picture saved: Global_Recogn/Global_Img11.jpg
+2024-06-08 17:51:15,004 - INFO - Face picture saved: Face_Recogn/Face_Img11.jpg
+2024-06-08 17:51:15,009 - INFO - Face info: Time: 2024-6-8 15:50:59, Sex: (Male), Age: 28
+2024-06-08 17:51:15,014 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img11.jpg
+2024-06-08 17:51:15,019 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 60
+2024-06-08 17:51:32,499 - INFO - face_recognition
+2024-06-08 17:51:32,510 - INFO - Global picture saved: Global_Recogn/Global_Img12.jpg
+2024-06-08 17:51:32,520 - INFO - Face picture saved: Face_Recogn/Face_Img12.jpg
+2024-06-08 17:51:32,530 - INFO - Face info: Time: 2024-6-8 15:51:16, Sex: (Male), Age: 28
+2024-06-08 17:51:32,540 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img12.jpg
+2024-06-08 17:51:32,551 - INFO - Candidate info: Name: 4619, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 52
+2024-06-08 17:51:49,693 - INFO - face_recognition
+2024-06-08 17:51:49,698 - INFO - Global picture saved: Global_Recogn/Global_Img13.jpg
+2024-06-08 17:51:49,703 - INFO - Face picture saved: Face_Recogn/Face_Img13.jpg
+2024-06-08 17:51:49,708 - INFO - Face info: Time: 2024-6-8 15:51:33, Sex: (Male), Age: 34
+2024-06-08 17:51:49,708 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img13.jpg
+2024-06-08 17:51:49,708 - INFO - Candidate info: Name: 4837, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 17:52:04,752 - INFO - face_recognition
+2024-06-08 17:52:04,762 - INFO - Global picture saved: Global_Recogn/Global_Img14.jpg
+2024-06-08 17:52:04,772 - INFO - Face picture saved: Face_Recogn/Face_Img14.jpg
+2024-06-08 17:52:04,782 - INFO - Face info: Time: 2024-6-8 15:51:44, Sex: (Male), Age: 27
+2024-06-08 17:52:04,792 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img14.jpg
+2024-06-08 17:52:04,803 - INFO - Candidate info: Name: 4639, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 54
+2024-06-08 17:54:28,521 - INFO - face_recognition
+2024-06-08 17:54:28,526 - INFO - Global picture saved: Global_Recogn/Global_Img15.jpg
+2024-06-08 17:54:28,531 - INFO - Face picture saved: Face_Recogn/Face_Img15.jpg
+2024-06-08 17:54:28,537 - INFO - Face info: Time: 2024-6-8 15:54:13, Sex: (Male), Age: 28
+2024-06-08 17:54:28,542 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img15.jpg
+2024-06-08 17:54:28,542 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 92
+2024-06-08 17:58:59,145 - INFO - face_recognition
+2024-06-08 17:58:59,150 - INFO - Global picture saved: Global_Recogn/Global_Img16.jpg
+2024-06-08 17:58:59,150 - INFO - Face picture saved: Face_Recogn/Face_Img16.jpg
+2024-06-08 17:58:59,150 - INFO - Face info: Time: 2024-6-8 15:55:13, Sex: (Male), Age: 30
+2024-06-08 17:58:59,150 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img16.jpg
+2024-06-08 17:58:59,150 - INFO - Candidate info: Name: 4837, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 58
+2024-06-08 17:59:12,926 - INFO - face_recognition
+2024-06-08 17:59:12,936 - INFO - Global picture saved: Global_Recogn/Global_Img17.jpg
+2024-06-08 17:59:12,946 - INFO - Face picture saved: Face_Recogn/Face_Img17.jpg
+2024-06-08 17:59:12,957 - INFO - Face info: Time: 2024-6-8 15:58:54, Sex: (Male), Age: 24
+2024-06-08 17:59:12,967 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img17.jpg
+2024-06-08 17:59:12,977 - INFO - Candidate info: Name: 4432, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 52
+2024-06-08 18:17:53,197 - INFO - face_recognition
+2024-06-08 18:17:53,197 - INFO - Global picture saved: Global_Recogn/Global_Img18.jpg
+2024-06-08 18:17:53,198 - INFO - Face picture saved: Face_Recogn/Face_Img18.jpg
+2024-06-08 18:17:53,198 - INFO - Face info: Time: 2024-6-8 16:17:32, Sex: (Male), Age: 31
+2024-06-08 18:17:53,198 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img18.jpg
+2024-06-08 18:17:53,203 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 74
+2024-06-08 18:18:13,710 - INFO - face_recognition
+2024-06-08 18:18:13,720 - INFO - Global picture saved: Global_Recogn/Global_Img19.jpg
+2024-06-08 18:18:13,731 - INFO - Face picture saved: Face_Recogn/Face_Img19.jpg
+2024-06-08 18:18:13,736 - INFO - Face info: Time: 2024-6-8 16:17:54, Sex: (Male), Age: 29
+2024-06-08 18:18:13,746 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img19.jpg
+2024-06-08 18:18:13,751 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 97
+2024-06-08 18:18:18,699 - INFO - face_recognition
+2024-06-08 18:18:18,709 - INFO - Global picture saved: Global_Recogn/Global_Img20.jpg
+2024-06-08 18:18:18,714 - INFO - Face picture saved: Face_Recogn/Face_Img20.jpg
+2024-06-08 18:18:18,719 - INFO - Face info: Time: 2024-6-8 16:17:58, Sex: (Male), Age: 27
+2024-06-08 18:18:18,724 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img20.jpg
+2024-06-08 18:18:18,730 - INFO - Candidate info: Name: ashirbek, Sex: (Male), Birth: 0-0-0, ID: , Similarity: 97
+2024-06-08 18:23:20,261 - INFO - face_recognition
+2024-06-08 18:23:20,261 - INFO - Global picture saved: Global_Recogn/Global_Img21.jpg
+2024-06-08 18:23:20,261 - INFO - Face picture saved: Face_Recogn/Face_Img21.jpg
+2024-06-08 18:23:20,262 - INFO - Face info: Time: 2024-6-8 16:22:56, Sex: (Male), Age: 29
+2024-06-08 18:23:20,262 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img21.jpg
+2024-06-08 18:23:20,262 - INFO - Candidate info: Name: 4330, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 60
+2024-06-08 18:27:04,054 - INFO - face_recognition
+2024-06-08 18:27:04,065 - INFO - Global picture saved: Global_Recogn/Global_Img22.jpg
+2024-06-08 18:27:04,075 - INFO - Face picture saved: Face_Recogn/Face_Img22.jpg
+2024-06-08 18:27:04,085 - INFO - Face info: Time: 2024-6-8 16:26:11, Sex: (Male), Age: 41
+2024-06-08 18:27:04,096 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img22.jpg
+2024-06-08 18:27:04,106 - INFO - Candidate info: Name: 4797, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 57
+2024-06-08 18:27:09,426 - INFO - face_recognition
+2024-06-08 18:27:09,436 - INFO - Global picture saved: Global_Recogn/Global_Img23.jpg
+2024-06-08 18:27:09,441 - INFO - Face picture saved: Face_Recogn/Face_Img23.jpg
+2024-06-08 18:27:09,451 - INFO - Face info: Time: 2024-6-8 16:26:50, Sex: (Male), Age: 33
+2024-06-08 18:27:09,462 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img23.jpg
+2024-06-08 18:27:09,472 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 63
+2024-06-08 18:27:26,081 - INFO - face_recognition
+2024-06-08 18:27:26,091 - INFO - Global picture saved: Global_Recogn/Global_Img24.jpg
+2024-06-08 18:27:26,101 - INFO - Face picture saved: Face_Recogn/Face_Img24.jpg
+2024-06-08 18:27:26,101 - INFO - Face info: Time: 2024-6-8 16:27:6, Sex: (Male), Age: 30
+2024-06-08 18:27:26,101 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img24.jpg
+2024-06-08 18:27:26,101 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 85
+2024-06-08 18:27:49,558 - INFO - face_recognition
+2024-06-08 18:27:49,568 - INFO - Global picture saved: Global_Recogn/Global_Img25.jpg
+2024-06-08 18:27:49,578 - INFO - Face picture saved: Face_Recogn/Face_Img25.jpg
+2024-06-08 18:27:49,588 - INFO - Face info: Time: 2024-6-8 16:27:28, Sex: (Male), Age: 30
+2024-06-08 18:27:49,593 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img25.jpg
+2024-06-08 18:27:49,604 - INFO - Candidate info: Name: 4852, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 61
+2024-06-08 18:28:08,670 - INFO - face_recognition
+2024-06-08 18:28:08,680 - INFO - Global picture saved: Global_Recogn/Global_Img26.jpg
+2024-06-08 18:28:08,690 - INFO - Face picture saved: Face_Recogn/Face_Img26.jpg
+2024-06-08 18:28:08,695 - INFO - Face info: Time: 2024-6-8 16:27:48, Sex: (Male), Age: 24
+2024-06-08 18:28:08,700 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img26.jpg
+2024-06-08 18:28:08,711 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 92
+2024-06-08 18:28:15,669 - INFO - face_recognition
+2024-06-08 18:28:15,679 - INFO - Global picture saved: Global_Recogn/Global_Img27.jpg
+2024-06-08 18:28:15,689 - INFO - Face picture saved: Face_Recogn/Face_Img27.jpg
+2024-06-08 18:28:15,694 - INFO - Face info: Time: 2024-6-8 16:27:54, Sex: (Male), Age: 29
+2024-06-08 18:28:15,704 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img27.jpg
+2024-06-08 18:28:15,714 - INFO - Candidate info: Name: 4373, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 60
+2024-06-08 18:33:41,505 - INFO - face_recognition
+2024-06-08 18:33:41,516 - INFO - Global picture saved: Global_Recogn/Global_Img28.jpg
+2024-06-08 18:33:41,526 - INFO - Face picture saved: Face_Recogn/Face_Img28.jpg
+2024-06-08 18:33:41,536 - INFO - Face info: Time: 2024-6-8 16:33:24, Sex: (Male), Age: 34
+2024-06-08 18:33:41,546 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img28.jpg
+2024-06-08 18:33:41,556 - INFO - Candidate info: Name: 4514, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 58
+2024-06-08 18:40:09,670 - INFO - face_recognition
+2024-06-08 18:40:09,675 - INFO - Global picture saved: Global_Recogn/Global_Img29.jpg
+2024-06-08 18:40:09,680 - INFO - Face picture saved: Face_Recogn/Face_Img29.jpg
+2024-06-08 18:40:09,685 - INFO - Face info: Time: 2024-6-8 16:39:28, Sex: (Male), Age: 25
+2024-06-08 18:40:09,690 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img29.jpg
+2024-06-08 18:40:09,695 - INFO - Candidate info: Name: 4797, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 56
+2024-06-08 18:53:08,384 - INFO - face_recognition
+2024-06-08 18:53:08,395 - INFO - Global picture saved: Global_Recogn/Global_Img30.jpg
+2024-06-08 18:53:08,400 - INFO - Face picture saved: Face_Recogn/Face_Img30.jpg
+2024-06-08 18:53:08,405 - INFO - Face info: Time: 2024-6-8 16:52:23, Sex: (Male), Age: 26
+2024-06-08 18:53:08,410 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img30.jpg
+2024-06-08 18:53:08,415 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 67
+2024-06-08 18:57:22,776 - INFO - face_recognition
+2024-06-08 18:57:22,787 - INFO - Global picture saved: Global_Recogn/Global_Img31.jpg
+2024-06-08 18:57:22,797 - INFO - Face picture saved: Face_Recogn/Face_Img31.jpg
+2024-06-08 18:57:22,807 - INFO - Face info: Time: 2024-6-8 16:57:2, Sex: (Male), Age: 31
+2024-06-08 18:57:22,812 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img31.jpg
+2024-06-08 18:57:22,822 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 65
+2024-06-08 19:00:15,591 - INFO - face_recognition
+2024-06-08 19:00:15,601 - INFO - Global picture saved: Global_Recogn/Global_Img32.jpg
+2024-06-08 19:00:15,611 - INFO - Face picture saved: Face_Recogn/Face_Img32.jpg
+2024-06-08 19:00:15,621 - INFO - Face info: Time: 2024-6-8 16:59:51, Sex: (Male), Age: 30
+2024-06-08 19:00:15,631 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img32.jpg
+2024-06-08 19:00:15,642 - INFO - Candidate info: Name: 4623, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 54
+2024-06-08 19:02:03,396 - INFO - face_recognition
+2024-06-08 19:02:03,406 - INFO - Global picture saved: Global_Recogn/Global_Img33.jpg
+2024-06-08 19:02:03,416 - INFO - Face picture saved: Face_Recogn/Face_Img33.jpg
+2024-06-08 19:02:03,427 - INFO - Face info: Time: 2024-6-8 16:39:30, Sex: (Male), Age: 48
+2024-06-08 19:02:03,432 - WARNING - Candidate info: Stranger
+2024-06-08 19:06:31,075 - INFO - face_recognition
+2024-06-08 19:06:31,085 - INFO - Global picture saved: Global_Recogn/Global_Img34.jpg
+2024-06-08 19:06:31,095 - INFO - Face picture saved: Face_Recogn/Face_Img34.jpg
+2024-06-08 19:06:31,105 - INFO - Face info: Time: 2024-6-8 17:6:11, Sex: (Male), Age: 29
+2024-06-08 19:06:31,115 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img34.jpg
+2024-06-08 19:06:31,125 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 62
+2024-06-08 19:09:07,155 - INFO - face_recognition
+2024-06-08 19:09:07,160 - INFO - Global picture saved: Global_Recogn/Global_Img35.jpg
+2024-06-08 19:09:07,170 - INFO - Face picture saved: Face_Recogn/Face_Img35.jpg
+2024-06-08 19:09:07,175 - INFO - Face info: Time: 2024-6-8 17:8:41, Sex: (Male), Age: 29
+2024-06-08 19:09:07,180 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img35.jpg
+2024-06-08 19:09:07,186 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 75
+2024-06-08 19:09:08,303 - INFO - face_recognition
+2024-06-08 19:09:08,313 - INFO - Global picture saved: Global_Recogn/Global_Img36.jpg
+2024-06-08 19:09:08,319 - INFO - Face picture saved: Face_Recogn/Face_Img36.jpg
+2024-06-08 19:09:08,324 - INFO - Face info: Time: 2024-6-8 17:8:51, Sex: (Male), Age: 37
+2024-06-08 19:09:08,329 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img36.jpg
+2024-06-08 19:09:08,339 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 68
+2024-06-08 19:11:54,280 - INFO - face_recognition
+2024-06-08 19:11:54,291 - INFO - Global picture saved: Global_Recogn/Global_Img37.jpg
+2024-06-08 19:11:54,301 - INFO - Face picture saved: Face_Recogn/Face_Img37.jpg
+2024-06-08 19:11:54,311 - INFO - Face info: Time: 2024-6-8 17:9:52, Sex: (Male), Age: 32
+2024-06-08 19:11:54,316 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img37.jpg
+2024-06-08 19:11:54,321 - INFO - Candidate info: Name: 4907, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 54
+2024-06-08 19:13:25,141 - INFO - face_recognition
+2024-06-08 19:13:25,151 - INFO - Global picture saved: Global_Recogn/Global_Img38.jpg
+2024-06-08 19:13:25,162 - INFO - Face picture saved: Face_Recogn/Face_Img38.jpg
+2024-06-08 19:13:25,172 - INFO - Face info: Time: 2024-6-8 17:12:23, Sex: (Female), Age: 22
+2024-06-08 19:13:25,182 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img38.jpg
+2024-06-08 19:13:25,192 - INFO - Candidate info: Name: 4314, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 19:15:38,954 - INFO - face_recognition
+2024-06-08 19:15:38,964 - INFO - Global picture saved: Global_Recogn/Global_Img39.jpg
+2024-06-08 19:15:38,969 - INFO - Face picture saved: Face_Recogn/Face_Img39.jpg
+2024-06-08 19:15:38,974 - INFO - Face info: Time: 2024-6-8 17:15:19, Sex: (Male), Age: 17
+2024-06-08 19:15:38,979 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img39.jpg
+2024-06-08 19:15:38,984 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 69
+2024-06-08 19:15:57,890 - INFO - face_recognition
+2024-06-08 19:15:57,901 - INFO - Global picture saved: Global_Recogn/Global_Img40.jpg
+2024-06-08 19:15:57,911 - INFO - Face picture saved: Face_Recogn/Face_Img40.jpg
+2024-06-08 19:15:57,921 - INFO - Face info: Time: 2024-6-8 17:15:41, Sex: (Male), Age: 28
+2024-06-08 19:15:57,931 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img40.jpg
+2024-06-08 19:15:57,941 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 58
+2024-06-08 19:16:02,052 - INFO - face_recognition
+2024-06-08 19:16:02,052 - INFO - Global picture saved: Global_Recogn/Global_Img41.jpg
+2024-06-08 19:16:02,058 - INFO - Face picture saved: Face_Recogn/Face_Img41.jpg
+2024-06-08 19:16:02,058 - INFO - Face info: Time: 2024-6-8 17:15:41, Sex: (Male), Age: 30
+2024-06-08 19:16:02,058 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img41.jpg
+2024-06-08 19:16:02,058 - INFO - Candidate info: Name: 4886, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 61
+2024-06-08 19:16:18,098 - INFO - face_recognition
+2024-06-08 19:16:18,108 - INFO - Global picture saved: Global_Recogn/Global_Img42.jpg
+2024-06-08 19:16:18,118 - INFO - Face picture saved: Face_Recogn/Face_Img42.jpg
+2024-06-08 19:16:18,129 - INFO - Face info: Time: 2024-6-8 17:15:43, Sex: (Male), Age: 28
+2024-06-08 19:16:18,139 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img42.jpg
+2024-06-08 19:16:18,149 - INFO - Candidate info: Name: 4577, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 55
+2024-06-08 19:16:35,208 - INFO - face_recognition
+2024-06-08 19:16:35,213 - INFO - Global picture saved: Global_Recogn/Global_Img43.jpg
+2024-06-08 19:16:35,218 - INFO - Face picture saved: Face_Recogn/Face_Img43.jpg
+2024-06-08 19:16:35,223 - INFO - Face info: Time: 2024-6-8 17:16:9, Sex: (Male), Age: 36
+2024-06-08 19:16:35,229 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img43.jpg
+2024-06-08 19:16:35,234 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 72
+2024-06-08 19:16:54,522 - INFO - face_recognition
+2024-06-08 19:16:54,532 - INFO - Global picture saved: Global_Recogn/Global_Img44.jpg
+2024-06-08 19:16:54,537 - INFO - Face picture saved: Face_Recogn/Face_Img44.jpg
+2024-06-08 19:16:54,537 - INFO - Face info: Time: 2024-6-8 17:16:36, Sex: (Male), Age: 26
+2024-06-08 19:16:54,537 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img44.jpg
+2024-06-08 19:16:54,537 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 94
+2024-06-08 19:17:01,132 - INFO - face_recognition
+2024-06-08 19:17:01,137 - INFO - Global picture saved: Global_Recogn/Global_Img45.jpg
+2024-06-08 19:17:01,137 - INFO - Face picture saved: Face_Recogn/Face_Img45.jpg
+2024-06-08 19:17:01,137 - INFO - Face info: Time: 2024-6-8 17:16:40, Sex: (Male), Age: 27
+2024-06-08 19:17:01,137 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img45.jpg
+2024-06-08 19:17:01,137 - INFO - Candidate info: Name: 4837, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 66
+2024-06-08 19:17:01,719 - INFO - face_recognition
+2024-06-08 19:17:01,729 - INFO - Global picture saved: Global_Recogn/Global_Img46.jpg
+2024-06-08 19:17:01,739 - INFO - Face picture saved: Face_Recogn/Face_Img46.jpg
+2024-06-08 19:17:01,749 - INFO - Face info: Time: 2024-6-8 17:16:43, Sex: (Male), Age: 34
+2024-06-08 19:17:01,760 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img46.jpg
+2024-06-08 19:17:01,770 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 68
+2024-06-08 19:17:38,359 - INFO - face_recognition
+2024-06-08 19:17:38,369 - INFO - Global picture saved: Global_Recogn/Global_Img47.jpg
+2024-06-08 19:17:38,380 - INFO - Face picture saved: Face_Recogn/Face_Img47.jpg
+2024-06-08 19:17:38,390 - INFO - Face info: Time: 2024-6-8 17:17:14, Sex: (Male), Age: 31
+2024-06-08 19:17:38,400 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img47.jpg
+2024-06-08 19:17:38,411 - INFO - Candidate info: Name: 4907, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 61
+2024-06-08 19:17:40,351 - INFO - face_recognition
+2024-06-08 19:17:40,361 - INFO - Global picture saved: Global_Recogn/Global_Img48.jpg
+2024-06-08 19:17:40,371 - INFO - Face picture saved: Face_Recogn/Face_Img48.jpg
+2024-06-08 19:17:40,371 - INFO - Face info: Time: 2024-6-8 17:17:22, Sex: (Male), Age: 28
+2024-06-08 19:17:40,371 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img48.jpg
+2024-06-08 19:17:40,372 - INFO - Candidate info: Name: 4910, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 58
+2024-06-08 19:19:46,595 - INFO - face_recognition
+2024-06-08 19:19:46,605 - INFO - Global picture saved: Global_Recogn/Global_Img49.jpg
+2024-06-08 19:19:46,610 - INFO - Face picture saved: Face_Recogn/Face_Img49.jpg
+2024-06-08 19:19:46,615 - INFO - Face info: Time: 2024-6-8 17:19:27, Sex: (Male), Age: 41
+2024-06-08 19:19:46,615 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img49.jpg
+2024-06-08 19:19:46,615 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 96
+2024-06-08 19:19:49,161 - INFO - face_recognition
+2024-06-08 19:19:49,171 - INFO - Global picture saved: Global_Recogn/Global_Img50.jpg
+2024-06-08 19:19:49,176 - INFO - Face picture saved: Face_Recogn/Face_Img50.jpg
+2024-06-08 19:19:49,181 - INFO - Face info: Time: 2024-6-8 17:19:19, Sex: (Male), Age: 20
+2024-06-08 19:19:49,186 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img50.jpg
+2024-06-08 19:19:49,191 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 82
+2024-06-08 19:19:50,880 - INFO - face_recognition
+2024-06-08 19:19:50,885 - INFO - Global picture saved: Global_Recogn/Global_Img51.jpg
+2024-06-08 19:19:50,890 - INFO - Face picture saved: Face_Recogn/Face_Img51.jpg
+2024-06-08 19:19:50,895 - INFO - Face info: Time: 2024-6-8 17:19:28, Sex: (Male), Age: 30
+2024-06-08 19:19:50,900 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img51.jpg
+2024-06-08 19:19:50,905 - INFO - Candidate info: Name: 4390, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 19:20:20,189 - INFO - face_recognition
+2024-06-08 19:20:20,200 - INFO - Global picture saved: Global_Recogn/Global_Img52.jpg
+2024-06-08 19:20:20,210 - INFO - Face picture saved: Face_Recogn/Face_Img52.jpg
+2024-06-08 19:20:20,220 - INFO - Face info: Time: 2024-6-8 17:20:2, Sex: (Male), Age: 31
+2024-06-08 19:20:20,231 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img52.jpg
+2024-06-08 19:20:20,241 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 78
+2024-06-08 19:20:32,324 - INFO - face_recognition
+2024-06-08 19:20:32,334 - INFO - Global picture saved: Global_Recogn/Global_Img53.jpg
+2024-06-08 19:20:32,339 - INFO - Face picture saved: Face_Recogn/Face_Img53.jpg
+2024-06-08 19:20:32,344 - INFO - Face info: Time: 2024-6-8 17:20:11, Sex: (Male), Age: 26
+2024-06-08 19:20:32,349 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img53.jpg
+2024-06-08 19:20:32,354 - INFO - Candidate info: Name: 4359, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 19:21:06,668 - INFO - face_recognition
+2024-06-08 19:21:06,668 - INFO - Global picture saved: Global_Recogn/Global_Img54.jpg
+2024-06-08 19:21:06,668 - INFO - Face picture saved: Face_Recogn/Face_Img54.jpg
+2024-06-08 19:21:06,673 - INFO - Face info: Time: 2024-6-8 17:20:48, Sex: (Male), Age: 26
+2024-06-08 19:21:06,673 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img54.jpg
+2024-06-08 19:21:06,673 - INFO - Candidate info: Name: 4910, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 63
+2024-06-08 19:22:31,249 - INFO - face_recognition
+2024-06-08 19:22:31,249 - INFO - Global picture saved: Global_Recogn/Global_Img55.jpg
+2024-06-08 19:22:31,249 - INFO - Face picture saved: Face_Recogn/Face_Img55.jpg
+2024-06-08 19:22:31,249 - INFO - Face info: Time: 2024-6-8 17:21:32, Sex: (Male), Age: 12
+2024-06-08 19:22:31,249 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img55.jpg
+2024-06-08 19:22:31,249 - INFO - Candidate info: Name: 4912, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 19:23:31,162 - INFO - face_recognition
+2024-06-08 19:23:31,173 - INFO - Global picture saved: Global_Recogn/Global_Img56.jpg
+2024-06-08 19:23:31,183 - INFO - Face picture saved: Face_Recogn/Face_Img56.jpg
+2024-06-08 19:23:31,193 - INFO - Face info: Time: 2024-6-8 17:23:10, Sex: (Male), Age: 27
+2024-06-08 19:23:31,204 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img56.jpg
+2024-06-08 19:23:31,214 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 74
+2024-06-08 19:23:31,889 - INFO - face_recognition
+2024-06-08 19:23:31,899 - INFO - Global picture saved: Global_Recogn/Global_Img57.jpg
+2024-06-08 19:23:31,910 - INFO - Face picture saved: Face_Recogn/Face_Img57.jpg
+2024-06-08 19:23:31,920 - INFO - Face info: Time: 2024-6-8 17:23:3, Sex: (Male), Age: 35
+2024-06-08 19:23:31,925 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img57.jpg
+2024-06-08 19:23:31,930 - INFO - Candidate info: Name: 4456, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 56
+2024-06-08 19:23:39,943 - INFO - face_recognition
+2024-06-08 19:23:39,953 - INFO - Global picture saved: Global_Recogn/Global_Img58.jpg
+2024-06-08 19:23:39,959 - INFO - Face picture saved: Face_Recogn/Face_Img58.jpg
+2024-06-08 19:23:39,959 - INFO - Face info: Time: 2024-6-8 17:23:18, Sex: (Male), Age: 32
+2024-06-08 19:23:39,959 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img58.jpg
+2024-06-08 19:23:39,959 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 57
+2024-06-08 19:25:40,933 - INFO - face_recognition
+2024-06-08 19:25:40,943 - INFO - Global picture saved: Global_Recogn/Global_Img59.jpg
+2024-06-08 19:25:40,954 - INFO - Face picture saved: Face_Recogn/Face_Img59.jpg
+2024-06-08 19:25:40,964 - INFO - Face info: Time: 2024-6-8 17:25:19, Sex: (Male), Age: 25
+2024-06-08 19:25:40,974 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img59.jpg
+2024-06-08 19:25:40,985 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 88
+2024-06-08 19:29:19,367 - INFO - face_recognition
+2024-06-08 19:29:19,372 - INFO - Global picture saved: Global_Recogn/Global_Img60.jpg
+2024-06-08 19:29:19,377 - INFO - Face picture saved: Face_Recogn/Face_Img60.jpg
+2024-06-08 19:29:19,382 - INFO - Face info: Time: 2024-6-8 17:29:0, Sex: (Male), Age: 35
+2024-06-08 19:29:19,382 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img60.jpg
+2024-06-08 19:29:19,382 - INFO - Candidate info: Name: 4837, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 60
+2024-06-08 19:35:03,470 - INFO - face_recognition
+2024-06-08 19:35:03,475 - INFO - Global picture saved: Global_Recogn/Global_Img61.jpg
+2024-06-08 19:35:03,480 - INFO - Face picture saved: Face_Recogn/Face_Img61.jpg
+2024-06-08 19:35:03,486 - INFO - Face info: Time: 2024-6-8 17:34:44, Sex: (Male), Age: 27
+2024-06-08 19:35:03,491 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img61.jpg
+2024-06-08 19:35:03,496 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 73
+2024-06-08 19:42:42,344 - INFO - face_recognition
+2024-06-08 19:42:42,349 - INFO - Global picture saved: Global_Recogn/Global_Img62.jpg
+2024-06-08 19:42:42,354 - INFO - Face picture saved: Face_Recogn/Face_Img62.jpg
+2024-06-08 19:42:42,359 - INFO - Face info: Time: 2024-6-8 17:42:23, Sex: (Male), Age: 33
+2024-06-08 19:42:42,359 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img62.jpg
+2024-06-08 19:42:42,359 - INFO - Candidate info: Name: 4852, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 53
+2024-06-08 19:59:46,696 - INFO - face_recognition
+2024-06-08 19:59:46,707 - INFO - Global picture saved: Global_Recogn/Global_Img63.jpg
+2024-06-08 19:59:46,712 - INFO - Face picture saved: Face_Recogn/Face_Img63.jpg
+2024-06-08 19:59:46,717 - INFO - Face info: Time: 2024-6-8 17:59:27, Sex: (Male), Age: 33
+2024-06-08 19:59:46,722 - WARNING - Candidate info: Stranger
+2024-06-08 20:00:30,673 - INFO - face_recognition
+2024-06-08 20:00:30,684 - INFO - Global picture saved: Global_Recogn/Global_Img64.jpg
+2024-06-08 20:00:30,694 - INFO - Face picture saved: Face_Recogn/Face_Img64.jpg
+2024-06-08 20:00:30,704 - INFO - Face info: Time: 2024-6-8 18:0:11, Sex: (Female), Age: 26
+2024-06-08 20:00:30,714 - WARNING - Candidate info: Stranger
+2024-06-08 20:00:36,335 - INFO - face_recognition
+2024-06-08 20:00:36,345 - INFO - Global picture saved: Global_Recogn/Global_Img65.jpg
+2024-06-08 20:00:36,355 - INFO - Face picture saved: Face_Recogn/Face_Img65.jpg
+2024-06-08 20:00:36,366 - INFO - Face info: Time: 2024-6-8 18:0:18, Sex: (Male), Age: 30
+2024-06-08 20:00:36,376 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img65.jpg
+2024-06-08 20:00:36,386 - INFO - Candidate info: Name: 4448, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 52
+2024-06-08 20:00:57,751 - INFO - face_recognition
+2024-06-08 20:00:57,756 - INFO - Global picture saved: Global_Recogn/Global_Img66.jpg
+2024-06-08 20:00:57,766 - INFO - Face picture saved: Face_Recogn/Face_Img66.jpg
+2024-06-08 20:00:57,771 - INFO - Face info: Time: 2024-6-8 18:0:38, Sex: (Male), Age: 24
+2024-06-08 20:00:57,776 - WARNING - Candidate info: Stranger
+2024-06-08 20:01:00,185 - INFO - face_recognition
+2024-06-08 20:01:00,195 - INFO - Global picture saved: Global_Recogn/Global_Img67.jpg
+2024-06-08 20:01:00,200 - INFO - Face picture saved: Face_Recogn/Face_Img67.jpg
+2024-06-08 20:01:00,210 - INFO - Face info: Time: 2024-6-8 18:0:41, Sex: (Male), Age: 27
+2024-06-08 20:01:00,215 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img67.jpg
+2024-06-08 20:01:00,220 - INFO - Candidate info: Name: 4596, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 20:01:41,415 - INFO - face_recognition
+2024-06-08 20:01:41,421 - INFO - Global picture saved: Global_Recogn/Global_Img68.jpg
+2024-06-08 20:01:41,431 - INFO - Face picture saved: Face_Recogn/Face_Img68.jpg
+2024-06-08 20:01:41,441 - INFO - Face info: Time: 2024-6-8 18:1:23, Sex: (Male), Age: 24
+2024-06-08 20:01:41,451 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img68.jpg
+2024-06-08 20:01:41,461 - INFO - Candidate info: Name: 4467, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 20:01:57,167 - INFO - face_recognition
+2024-06-08 20:01:57,177 - INFO - Global picture saved: Global_Recogn/Global_Img69.jpg
+2024-06-08 20:01:57,182 - INFO - Face picture saved: Face_Recogn/Face_Img69.jpg
+2024-06-08 20:01:57,192 - INFO - Face info: Time: 2024-6-8 18:1:38, Sex: (Male), Age: 14
+2024-06-08 20:01:57,203 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img69.jpg
+2024-06-08 20:01:57,213 - INFO - Candidate info: Name: 4612, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 54
+2024-06-08 20:02:39,761 - INFO - face_recognition
+2024-06-08 20:02:39,771 - INFO - Global picture saved: Global_Recogn/Global_Img70.jpg
+2024-06-08 20:02:39,781 - INFO - Face picture saved: Face_Recogn/Face_Img70.jpg
+2024-06-08 20:02:39,786 - INFO - Face info: Time: 2024-6-8 18:2:14, Sex: (Male), Age: 28
+2024-06-08 20:02:39,796 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img70.jpg
+2024-06-08 20:02:39,802 - INFO - Candidate info: Name: 4462, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 20:02:55,283 - INFO - face_recognition
+2024-06-08 20:02:55,294 - INFO - Global picture saved: Global_Recogn/Global_Img71.jpg
+2024-06-08 20:02:55,304 - INFO - Face picture saved: Face_Recogn/Face_Img71.jpg
+2024-06-08 20:02:55,314 - INFO - Face info: Time: 2024-6-8 18:2:28, Sex: (Male), Age: 43
+2024-06-08 20:02:55,324 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img71.jpg
+2024-06-08 20:02:55,335 - INFO - Candidate info: Name: 4909, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 59
+2024-06-08 20:02:58,693 - INFO - face_recognition
+2024-06-08 20:02:58,703 - INFO - Global picture saved: Global_Recogn/Global_Img72.jpg
+2024-06-08 20:02:58,708 - INFO - Face picture saved: Face_Recogn/Face_Img72.jpg
+2024-06-08 20:02:58,713 - INFO - Face info: Time: 2024-6-8 18:2:35, Sex: (Male), Age: 22
+2024-06-08 20:02:58,719 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img72.jpg
+2024-06-08 20:02:58,724 - INFO - Candidate info: Name: 4331, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 20:03:06,460 - INFO - face_recognition
+2024-06-08 20:03:06,470 - INFO - Global picture saved: Global_Recogn/Global_Img73.jpg
+2024-06-08 20:03:06,480 - INFO - Face picture saved: Face_Recogn/Face_Img73.jpg
+2024-06-08 20:03:06,485 - INFO - Face info: Time: 2024-6-8 18:2:44, Sex: (Male), Age: 42
+2024-06-08 20:03:06,490 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img73.jpg
+2024-06-08 20:03:06,495 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 71
+2024-06-08 20:03:18,106 - INFO - face_recognition
+2024-06-08 20:03:18,106 - INFO - Global picture saved: Global_Recogn/Global_Img74.jpg
+2024-06-08 20:03:18,106 - INFO - Face picture saved: Face_Recogn/Face_Img74.jpg
+2024-06-08 20:03:18,106 - INFO - Face info: Time: 2024-6-8 18:3:1, Sex: (Male), Age: 24
+2024-06-08 20:03:18,106 - WARNING - Candidate info: Stranger
+2024-06-08 20:03:23,706 - INFO - face_recognition
+2024-06-08 20:03:23,716 - INFO - Global picture saved: Global_Recogn/Global_Img75.jpg
+2024-06-08 20:03:23,726 - INFO - Face picture saved: Face_Recogn/Face_Img75.jpg
+2024-06-08 20:03:23,737 - INFO - Face info: Time: 2024-6-8 18:3:5, Sex: (Male), Age: 47
+2024-06-08 20:03:23,747 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img75.jpg
+2024-06-08 20:03:23,752 - INFO - Candidate info: Name: 4465, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 64
+2024-06-08 20:03:26,457 - INFO - face_recognition
+2024-06-08 20:03:26,462 - INFO - Global picture saved: Global_Recogn/Global_Img76.jpg
+2024-06-08 20:03:26,472 - INFO - Face picture saved: Face_Recogn/Face_Img76.jpg
+2024-06-08 20:03:26,483 - INFO - Face info: Time: 2024-6-8 18:3:6, Sex: (Male), Age: 17
+2024-06-08 20:03:26,493 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img76.jpg
+2024-06-08 20:03:26,503 - INFO - Candidate info: Name: 4610, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 54
+2024-06-08 20:03:59,393 - INFO - face_recognition
+2024-06-08 20:03:59,398 - INFO - Global picture saved: Global_Recogn/Global_Img77.jpg
+2024-06-08 20:03:59,408 - INFO - Face picture saved: Face_Recogn/Face_Img77.jpg
+2024-06-08 20:03:59,413 - INFO - Face info: Time: 2024-6-8 18:3:40, Sex: (Male), Age: 28
+2024-06-08 20:03:59,418 - WARNING - Candidate info: Stranger
+2024-06-08 20:04:04,107 - INFO - face_recognition
+2024-06-08 20:04:04,117 - INFO - Global picture saved: Global_Recogn/Global_Img78.jpg
+2024-06-08 20:04:04,127 - INFO - Face picture saved: Face_Recogn/Face_Img78.jpg
+2024-06-08 20:04:04,138 - INFO - Face info: Time: 2024-6-8 18:3:47, Sex: (Male), Age: 25
+2024-06-08 20:04:04,148 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img78.jpg
+2024-06-08 20:04:04,153 - INFO - Candidate info: Name: 4804, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 62
+2024-06-08 20:06:10,467 - INFO - face_recognition
+2024-06-08 20:06:10,477 - INFO - Global picture saved: Global_Recogn/Global_Img79.jpg
+2024-06-08 20:06:10,477 - INFO - Face picture saved: Face_Recogn/Face_Img79.jpg
+2024-06-08 20:06:10,477 - INFO - Face info: Time: 2024-6-8 18:5:51, Sex: (Female), Age: 27
+2024-06-08 20:06:10,477 - WARNING - Candidate info: Stranger
+2024-06-08 20:06:58,139 - INFO - face_recognition
+2024-06-08 20:06:58,149 - INFO - Global picture saved: Global_Recogn/Global_Img80.jpg
+2024-06-08 20:06:58,159 - INFO - Face picture saved: Face_Recogn/Face_Img80.jpg
+2024-06-08 20:06:58,169 - INFO - Face info: Time: 2024-6-8 18:6:38, Sex: (Male), Age: 22
+2024-06-08 20:06:58,180 - WARNING - Candidate info: Stranger
+2024-06-08 20:07:26,620 - INFO - face_recognition
+2024-06-08 20:07:26,625 - INFO - Global picture saved: Global_Recogn/Global_Img81.jpg
+2024-06-08 20:07:26,630 - INFO - Face picture saved: Face_Recogn/Face_Img81.jpg
+2024-06-08 20:07:26,635 - INFO - Face info: Time: 2024-6-8 18:7:6, Sex: (Male), Age: 28
+2024-06-08 20:07:26,641 - WARNING - Candidate info: Stranger
+2024-06-08 20:09:26,440 - INFO - face_recognition
+2024-06-08 20:09:26,450 - INFO - Global picture saved: Global_Recogn/Global_Img82.jpg
+2024-06-08 20:09:26,461 - INFO - Face picture saved: Face_Recogn/Face_Img82.jpg
+2024-06-08 20:09:26,471 - INFO - Face info: Time: 2024-6-8 18:9:7, Sex: (Male), Age: 29
+2024-06-08 20:09:26,481 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img82.jpg
+2024-06-08 20:09:26,491 - INFO - Candidate info: Name: 4502, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 56
+2024-06-08 20:10:35,835 - INFO - face_recognition
+2024-06-08 20:10:35,845 - INFO - Global picture saved: Global_Recogn/Global_Img83.jpg
+2024-06-08 20:10:35,855 - INFO - Face picture saved: Face_Recogn/Face_Img83.jpg
+2024-06-08 20:10:35,860 - INFO - Face info: Time: 2024-6-8 18:10:16, Sex: (Male), Age: 29
+2024-06-08 20:10:35,865 - WARNING - Candidate info: Stranger
+2024-06-08 20:11:21,873 - INFO - face_recognition
+2024-06-08 20:11:21,883 - INFO - Global picture saved: Global_Recogn/Global_Img84.jpg
+2024-06-08 20:11:21,888 - INFO - Face picture saved: Face_Recogn/Face_Img84.jpg
+2024-06-08 20:11:21,893 - INFO - Face info: Time: 2024-6-8 18:10:57, Sex: (Female), Age: 20
+2024-06-08 20:11:21,904 - WARNING - Candidate info: Stranger
+2024-06-08 20:13:12,281 - INFO - face_recognition
+2024-06-08 20:13:12,291 - INFO - Global picture saved: Global_Recogn/Global_Img85.jpg
+2024-06-08 20:13:12,301 - INFO - Face picture saved: Face_Recogn/Face_Img85.jpg
+2024-06-08 20:13:12,311 - INFO - Face info: Time: 2024-6-8 18:12:52, Sex: (Male), Age: 15
+2024-06-08 20:13:12,321 - WARNING - Candidate info: Stranger
+2024-06-08 20:14:37,270 - INFO - face_recognition
+2024-06-08 20:14:37,280 - INFO - Global picture saved: Global_Recogn/Global_Img86.jpg
+2024-06-08 20:14:37,290 - INFO - Face picture saved: Face_Recogn/Face_Img86.jpg
+2024-06-08 20:14:37,295 - INFO - Face info: Time: 2024-6-8 18:14:17, Sex: (Male), Age: 23
+2024-06-08 20:14:37,300 - WARNING - Candidate info: Stranger
+2024-06-08 20:16:39,633 - INFO - face_recognition
+2024-06-08 20:16:39,638 - INFO - Global picture saved: Global_Recogn/Global_Img87.jpg
+2024-06-08 20:16:39,649 - INFO - Face picture saved: Face_Recogn/Face_Img87.jpg
+2024-06-08 20:16:39,659 - INFO - Face info: Time: 2024-6-8 18:16:20, Sex: (Male), Age: 30
+2024-06-08 20:16:39,669 - WARNING - Candidate info: Stranger
+2024-06-08 20:21:01,560 - INFO - face_recognition
+2024-06-08 20:21:01,571 - INFO - Global picture saved: Global_Recogn/Global_Img88.jpg
+2024-06-08 20:21:01,576 - INFO - Face picture saved: Face_Recogn/Face_Img88.jpg
+2024-06-08 20:21:01,581 - INFO - Face info: Time: 2024-6-8 18:20:42, Sex: (Male), Age: 18
+2024-06-08 20:21:01,586 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img88.jpg
+2024-06-08 20:21:01,591 - INFO - Candidate info: Name: 4610, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 20:21:08,655 - INFO - face_recognition
+2024-06-08 20:21:08,660 - INFO - Global picture saved: Global_Recogn/Global_Img89.jpg
+2024-06-08 20:21:08,660 - INFO - Face picture saved: Face_Recogn/Face_Img89.jpg
+2024-06-08 20:21:08,665 - INFO - Face info: Time: 2024-6-8 18:20:51, Sex: (Male), Age: 12
+2024-06-08 20:21:08,671 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img89.jpg
+2024-06-08 20:21:08,676 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 73
+2024-06-08 20:21:51,821 - INFO - face_recognition
+2024-06-08 20:21:51,832 - INFO - Global picture saved: Global_Recogn/Global_Img90.jpg
+2024-06-08 20:21:51,837 - INFO - Face picture saved: Face_Recogn/Face_Img90.jpg
+2024-06-08 20:21:51,842 - INFO - Face info: Time: 2024-6-8 18:21:35, Sex: (Male), Age: 27
+2024-06-08 20:21:51,847 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img90.jpg
+2024-06-08 20:21:51,852 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 98
+2024-06-08 20:32:21,618 - INFO - face_recognition
+2024-06-08 20:32:21,628 - INFO - Global picture saved: Global_Recogn/Global_Img91.jpg
+2024-06-08 20:32:21,638 - INFO - Face picture saved: Face_Recogn/Face_Img91.jpg
+2024-06-08 20:32:21,649 - INFO - Face info: Time: 2024-6-8 18:32:4, Sex: (Male), Age: 29
+2024-06-08 20:32:21,654 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img91.jpg
+2024-06-08 20:32:21,659 - INFO - Candidate info: Name: 4439, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 55
+2024-06-08 20:51:08,802 - INFO - face_recognition
+2024-06-08 20:51:08,807 - INFO - Global picture saved: Global_Recogn/Global_Img92.jpg
+2024-06-08 20:51:08,812 - INFO - Face picture saved: Face_Recogn/Face_Img92.jpg
+2024-06-08 20:51:08,818 - INFO - Face info: Time: 2024-6-8 18:50:45, Sex: (Male), Age: 31
+2024-06-08 20:51:08,818 - WARNING - Candidate info: Stranger
+2024-06-08 20:52:05,736 - INFO - face_recognition
+2024-06-08 20:52:05,742 - INFO - Global picture saved: Global_Recogn/Global_Img93.jpg
+2024-06-08 20:52:05,747 - INFO - Face picture saved: Face_Recogn/Face_Img93.jpg
+2024-06-08 20:52:05,757 - INFO - Face info: Time: 2024-6-8 18:51:46, Sex: (Male), Age: 12
+2024-06-08 20:52:05,767 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img93.jpg
+2024-06-08 20:52:05,777 - INFO - Candidate info: Name: 4611, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 50
+2024-06-08 20:53:50,998 - INFO - face_recognition
+2024-06-08 20:53:51,008 - INFO - Global picture saved: Global_Recogn/Global_Img94.jpg
+2024-06-08 20:53:51,018 - INFO - Face picture saved: Face_Recogn/Face_Img94.jpg
+2024-06-08 20:53:51,028 - INFO - Face info: Time: 2024-6-8 18:53:31, Sex: (Male), Age: 45
+2024-06-08 20:53:51,033 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img94.jpg
+2024-06-08 20:53:51,043 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 52
+2024-06-08 20:53:58,162 - INFO - face_recognition
+2024-06-08 20:53:58,172 - INFO - Global picture saved: Global_Recogn/Global_Img95.jpg
+2024-06-08 20:53:58,183 - INFO - Face picture saved: Face_Recogn/Face_Img95.jpg
+2024-06-08 20:53:58,188 - INFO - Face info: Time: 2024-6-8 18:53:35, Sex: (Male), Age: 31
+2024-06-08 20:53:58,193 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img95.jpg
+2024-06-08 20:53:58,198 - INFO - Candidate info: Name: 4453, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 51
+2024-06-08 20:54:33,905 - INFO - face_recognition
+2024-06-08 20:54:33,915 - INFO - Global picture saved: Global_Recogn/Global_Img96.jpg
+2024-06-08 20:54:33,926 - INFO - Face picture saved: Face_Recogn/Face_Img96.jpg
+2024-06-08 20:54:33,931 - INFO - Face info: Time: 2024-6-8 18:54:14, Sex: (Male), Age: 25
+2024-06-08 20:54:33,936 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img96.jpg
+2024-06-08 20:54:33,941 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 97
+2024-06-08 20:54:46,664 - INFO - face_recognition
+2024-06-08 20:54:46,675 - INFO - Global picture saved: Global_Recogn/Global_Img97.jpg
+2024-06-08 20:54:46,685 - INFO - Face picture saved: Face_Recogn/Face_Img97.jpg
+2024-06-08 20:54:46,695 - INFO - Face info: Time: 2024-6-8 18:54:28, Sex: (Male), Age: 27
+2024-06-08 20:54:46,705 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img97.jpg
+2024-06-08 20:54:46,710 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 93
+2024-06-08 21:03:09,531 - INFO - face_recognition
+2024-06-08 21:03:09,536 - INFO - Global picture saved: Global_Recogn/Global_Img98.jpg
+2024-06-08 21:03:09,546 - INFO - Face picture saved: Face_Recogn/Face_Img98.jpg
+2024-06-08 21:03:09,556 - INFO - Face info: Time: 2024-6-8 19:2:53, Sex: (Male), Age: 26
+2024-06-08 21:03:09,567 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img98.jpg
+2024-06-08 21:03:09,577 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 74
+2024-06-08 21:03:23,865 - INFO - face_recognition
+2024-06-08 21:03:23,875 - INFO - Global picture saved: Global_Recogn/Global_Img99.jpg
+2024-06-08 21:03:23,880 - INFO - Face picture saved: Face_Recogn/Face_Img99.jpg
+2024-06-08 21:03:23,885 - INFO - Face info: Time: 2024-6-8 19:3:6, Sex: (Male), Age: 29
+2024-06-08 21:03:23,890 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img99.jpg
+2024-06-08 21:03:23,895 - INFO - Candidate info: Name: 4320, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 80
+2024-06-08 21:08:31,836 - INFO - face_recognition
+2024-06-08 21:08:31,842 - INFO - Global picture saved: Global_Recogn/Global_Img100.jpg
+2024-06-08 21:08:31,847 - INFO - Face picture saved: Face_Recogn/Face_Img100.jpg
+2024-06-08 21:08:31,857 - INFO - Face info: Time: 2024-6-8 19:8:10, Sex: (Male), Age: 28
+2024-06-08 21:08:31,867 - INFO - Candidate picture saved: Candidate_Recogn/Candidate_Img100.jpg
+2024-06-08 21:08:31,872 - INFO - Candidate info: Name: 4319, Sex: (Unknown), Birth: 0-0-0, ID: , Similarity: 55

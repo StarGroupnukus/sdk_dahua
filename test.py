@@ -1,8 +1,6 @@
-import json
 import logging
 import mimetypes
 import os
-import shutil
 import requests
 from dotenv import load_dotenv
 
@@ -31,16 +29,13 @@ def setup_logger(name, log_file, level=logging.DEBUG):
 
     return logger
 
+
 os.makedirs('logs', exist_ok=True)
 logger = setup_logger("flog", "logs/flog.log")
 
 
-
-
-
-
 def send_report(id, file_paths, time, score, status, flogger=logger):
-    url = 'https://kinder-version2.cake-bumer.uz/api/reports2'
+    url = os.getenv('SEND_API')
     data = {
         "camera_id": '31',
         "child_id": str(id),
@@ -63,15 +58,14 @@ def send_report(id, file_paths, time, score, status, flogger=logger):
 
         files = tuple(files_data)
         with requests.post(
-            url, data=data, files=files, headers={"Accept": "application/json"}, timeout=10
+                url, data=data, files=files, headers={"Accept": "application/json"}, timeout=10
         ) as response:
             flogger.info(response.status_code)
             if response.status_code != 200:
-                print('sent')
+                flogger.info('sent')
     except Exception as e:
 
         flogger.error(e)
     finally:
         for _, (filename, file, _) in files_data:
             file.close()
-
