@@ -211,7 +211,7 @@ def main():
     sdk.SetAutoReconnect(m_ReConnectCallBack)
 
     ip = os.getenv('IP_ADRESS')
-    port = os.getenv('PORT')
+    port = int(os.getenv('PORT'))
     username = os.getenv('LOGIN')
     password = os.getenv('PASSWORD')
     stuInParam = NET_IN_LOGIN_WITH_HIGHLEVEL_SECURITY()
